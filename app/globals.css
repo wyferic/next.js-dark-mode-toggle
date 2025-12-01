@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@variant dark (&:where([data-theme="dark"] *));
+
+* {
+  transition: 0.2s ease;
+}
+
+@theme {
+  --font-sans: var(--font-atkinson);
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}

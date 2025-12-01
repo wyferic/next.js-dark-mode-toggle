@@ -4,7 +4,7 @@ This is for my personal use since I cannot for the life of me remember how to co
 ## Getting Started
 Step 1: clone the repo
 
-```git clone https://github.com/wyferic/next.js-website-template.git```
+```git clone https://github.com/wyferic/next.js-dark-mode-toggle.git```
 
 Step 2: install the modules
 

@@ -1,7 +1,5 @@
-This is a [Next.js](https://nextjs.org) boilerplate code hosted on github pages. 
+This project shows the dark/light mode themes in [Next.js](https://nextjs.org). 
 This is for my personal use since I cannot for the life of me remember how to code.
-
-In case something goes wrong, consult the sacred texts: https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/
 
 ## Getting Started
 Step 1: clone the repo
@@ -21,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 You can see the (hopefully) working boilerplate code here:
-https://wyferic.github.io/next.js-website-template
+https://wyferic.github.io/next.js-dark-mode-toggle
